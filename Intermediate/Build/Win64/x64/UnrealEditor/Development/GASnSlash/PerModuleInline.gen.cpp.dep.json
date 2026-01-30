@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasnslash\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\gasnslasheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasnslash\\definitions.gasnslash.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

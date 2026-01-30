@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GASnSlash",
+			"Path": "..\\Source\\GASnSlash.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GASnSlashEditor",
+			"Path": "..\\Source\\GASnSlashEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
