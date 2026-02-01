@@ -37,8 +37,13 @@
 /NOIMPLIB
 /NOEXP
 "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/GASnSlashEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/GASnSlash.init.gen.cpp.obj"
+"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/GnS_BaseCharacter.gen.cpp.obj"
+"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/GnS_PlayerCharacter.gen.cpp.obj"
 "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/GASnSlash.cpp.obj"
 "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/PerModuleInline.gen.cpp.obj"
+"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/GnS_BaseCharacter.cpp.obj"
+"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/GnS_PlayerCharacter.cpp.obj"
 "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/x64/UnrealEditor/Development/GASnSlash/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"

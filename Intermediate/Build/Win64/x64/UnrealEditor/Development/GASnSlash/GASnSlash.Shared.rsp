@@ -1,5 +1,8 @@
 /I "."
+/I "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Source/GASnSlash/Private"
+/I "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Intermediate/Build/Win64/UnrealEditor/Inc/GASnSlash/UHT"
 /I "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Source"
+/I "C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Source/GASnSlash/Public"
 /I "Runtime/Core/Public"
 /I "Runtime/TraceLog/Public"
 /I "Runtime/AutoRTFM/Public"
