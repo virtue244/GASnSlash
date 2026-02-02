@@ -1,18 +1,3 @@
-{
-    "version": "2.1.0",
-    "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
-    "runs": [
-        {
-            "results": [],
-            "tool": {
-                "driver": {
-                    "name": "MSVC",
-                    "shortDescription": {
-                        "text": "Microsoft Visual C++ Compiler Warnings/Errors"
-                    },
-                    "informationUri": "https://docs.microsoft.com/cpp/error-messages/compiler-errors-1/c-cpp-build-errors"
-                }
-            }
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:82fa5f5e0e126cfbc7227f1ad9b23a4a6cb22136e9ed3895cf7a161496f0f9db
+size 572

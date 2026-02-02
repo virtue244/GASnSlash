@@ -1,6 +1,3 @@
-// PCH for SlateSharedPCH.h
-#include "SharedDefinitions.Slate.Cpp20.h"
-#include "SlateSharedPCH.h"
-#ifdef __ISPC_ALIGN__
-#error ispc.generated.h files are not allowed in precompiled headers (This is a build time optimization to reduce action dependencies)
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4232bcba60eaae6b61c97baca2cbeac78dacba1fab146cb400c3812fc7d7085
+size 263

@@ -1,14 +1,3 @@
-{
-    "Version": "1.2",
-    "Data": {
-        "Source": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasnslash\\permoduleinline.gen.cpp",
-        "ProvidedModule": "",
-        "PCH": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\gasnslasheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
-        "Includes": [
-            "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasnslash\\definitions.gasnslash.h",
-            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
-        ],
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3bcc3ed242e6d37d4ef2d30083a809ece9e4e1746f113f6a991d645ae6de61f
+size 888

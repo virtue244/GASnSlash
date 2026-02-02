@@ -1,6 +1,3 @@
-// PCH for EngineSharedPCH.h
-#include "SharedDefinitions.Engine.RTTI.Cpp20.h"
-#include "EngineSharedPCH.h"
-#ifdef __ISPC_ALIGN__
-#error ispc.generated.h files are not allowed in precompiled headers (This is a build time optimization to reduce action dependencies)
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:5149a40901bb76ecf0a6af58ac5988ed87b8000a53085e8dd4ac49ff30ef1aba
+size 271

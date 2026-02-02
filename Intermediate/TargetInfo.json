@@ -1,14 +1,3 @@
-{
-	"Targets": [
-		{
-			"Name": "GASnSlash",
-			"Path": "..\\Source\\GASnSlash.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "GASnSlashEditor",
-			"Path": "..\\Source\\GASnSlashEditor.Target.cs",
-			"Type": "Editor"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2386d7ed702958dff18894b0948c08db6e186d1ba92630c30dfbd578eccb86af
+size 227

@@ -1,6 +1,3 @@
-// PCH for CoreUObjectSharedPCH.h
-#include "SharedDefinitions.CoreUObject.RTTI.Cpp20.h"
-#include "CoreUObjectSharedPCH.h"
-#ifdef __ISPC_ALIGN__
-#error ispc.generated.h files are not allowed in precompiled headers (This is a build time optimization to reduce action dependencies)
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eb55663265637ec25f9c748e1737ad4fe158eff2efaa8f5d820a6fc8c591bde
+size 286

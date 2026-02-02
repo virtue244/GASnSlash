@@ -1,13 +1,3 @@
-{
-    "Version": "1.2",
-    "Data": {
-        "Source": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\unrealeditor\\inc\\gasnslash\\uht\\gasnslash.init.gen.cpp",
-        "ProvidedModule": "",
-        "PCH": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\gasnslasheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
-        "Includes": [
-            "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasnslash\\definitions.gasnslash.h"
-        ],
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b495fa8488865ea1f0a01cf4ea8c41318853157f5db8550d67a12b037c2f4a98
+size 761
