@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\unrealeditor\\inc\\gasnslash\\uht\\gasnslash.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\gasnslasheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dylan victory\\onedrive\\documents\\unreal projects\\gasnslash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasnslash\\definitions.gasnslash.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Content/GASnSlash/Maps/MainMap.umap",
+				"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Content/ParagonBoris/FX/Materials/Heroes/Boris/Abilities/M_ImpactSlash.uasset",
+				"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Content/GASnSlash/Characters/BP_GnS_PlayerCharacter.uasset",
+				"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Content/GASnSlash/Game/BP_GASnSlash_GameMode.uasset",
+				"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Content/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.uasset",
+				"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Content/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.uasset",
+				"C:/Users/Dylan Victory/OneDrive/Documents/Unreal Projects/GASnSlash/Content/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.uasset"
+			]
+		}
+	]
+}

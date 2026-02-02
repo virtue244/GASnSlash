@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GASnSlash.gen.cpp.obj": [
+			"GASnSlash.init.gen.cpp.obj",
+			"GnS_BaseCharacter.gen.cpp.obj",
+			"GnS_PlayerCharacter.gen.cpp.obj"
+		]
+	}
+}
