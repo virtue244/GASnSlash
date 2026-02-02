@@ -12,12 +12,9 @@
 AGnS_PlayerCharacter::AGnS_PlayerCharacter()
 {
 	PrimaryActorTick.bCanEverTick = false;
-
-	// TODO What exactly is a capsule used for?
-	// Do it just hold the character, Is it perhaps used for collision?
+	
 	/*
 	 * Characters primary collision body
-	 * 
 	 */
 	GetCapsuleComponent()->InitCapsuleSize(42.f,96.f);
 
@@ -46,7 +43,7 @@ AGnS_PlayerCharacter::AGnS_PlayerCharacter()
 
 	// Instantiate Camera Object
 	FollowCamera = CreateDefaultSubobject<UCameraComponent>("FollowCamera");
-	// Attach to SpringArm - TODO Confused on the second Argument
+	// Attach to SpringArm
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName);
 	// Set Properties of the Object
 	FollowCamera->bUsePawnControlRotation = false;
